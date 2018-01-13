@@ -2,4 +2,4 @@
 filter the dogs
 
 Filter dogs App . Part of my Youtube videos Examples
-URL : 
+URL : https://yanivsalman.github.io/Vanillajs-FilterDogs/
